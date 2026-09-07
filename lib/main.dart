@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'GitHub Actions CI Demo:',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-
+        cardColor: Colors.red,
         // This is the theme of your application.
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
